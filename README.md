@@ -5,7 +5,7 @@ A Python script that monitors keyboard input and automatically replaces specific
 ## Features
 
 - Monitors keyboard input in real-time
-- Automatically replaces 'my' and 'myself' with 'omer'
+- Automatically replaces words
 - Easy to customize for other word replacements
 - Safe operation with failsafe mechanisms
 - Simple start/stop controls
