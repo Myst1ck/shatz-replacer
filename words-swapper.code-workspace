@@ -1,7 +1,12 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"name": "Replacer",
+			"path": "./replacer"
+		},
+		{
+			"name": "Speaker",
+			"path": "./speaker"
 		}
 	],
 	"settings": {}
