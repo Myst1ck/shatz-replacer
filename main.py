@@ -6,8 +6,8 @@ import pyautogui
 class WordsSwapper:
     def __init__(self):
         self.buffer = ""
-        self.words_to_replace = ['my', 'myself']
-        self.replacement = 'omer'
+        self.words_to_replace = ['אני', 'מיה', 'עמית']
+        self.replacement = 'צעירה פעורה'
         self.buffer_end_keys = [Key.space, Key.enter, Key.tab]
         self.is_running = False
 
