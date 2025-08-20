@@ -7,6 +7,10 @@
 		{
 			"name": "Speaker",
 			"path": "./speaker"
+		},
+		{
+			"name": "Root",
+			"path": "."
 		}
 	],
 	"settings": {}
